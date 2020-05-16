@@ -143,7 +143,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589625662424</updated>
       <workItem from="1589625663763" duration="3879000" />
-      <workItem from="1589629597396" duration="1612000" />
+      <workItem from="1589629597396" duration="1947000" />
     </task>
     <task id="LOCAL-00001" summary="add &lt;div&gt;">
       <created>1589631199837</created>
@@ -152,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589631199837</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add &lt;div&gt;&#10;&#10;README.md  1 2">
+      <created>1589631530398</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589631530398</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +167,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add &lt;div&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add &lt;div&gt;" />
+    <MESSAGE value="add &lt;div&gt;&#10;&#10;README.md  1 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &lt;div&gt;&#10;&#10;README.md  1 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="222" y="158" width="719" height="545" key="#Notifications" timestamp="1589629148630">
@@ -175,10 +183,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="395" y="1" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1589627157995" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1589631198272">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1589631529188">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1589631198272" />
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1589631529188" />
     <state x="441" y="131" key="FileChooserDialogImpl" timestamp="1589629053725">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -231,14 +239,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="162" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1589629281899" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1589631273483">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1589631574342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1589631273483" />
-    <state x="476" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589631210895">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1589631574342" />
+    <state x="476" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589631540025">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="476" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1589631210895" />
+    <state x="476" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1589631540025" />
+    <state x="400" y="150" key="git4idea.merge.GitPullDialog" timestamp="1589631459208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="150" key="git4idea.merge.GitPullDialog/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1589631459208" />
     <state x="53" y="0" key="new project wizard" timestamp="1589626064337">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
