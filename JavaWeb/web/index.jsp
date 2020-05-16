@@ -11,6 +11,7 @@
     <title>中广深网络</title>
   </head>
   <body>
+  <div>
     <h1 style="corlo:red">Hello</h1>
     <h1 style="corlo:red">Hello</h1>
     <h1 style="corlo:red">Hello</h1>
@@ -18,5 +19,6 @@
     <h1 style="corlo:red">Hello</h1>
     <h1 style="corlo:red">Hello</h1>
     <h1 style="corlo:red">Hello</h1>
+  </div>
   </body>
 </html>
