@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f044f781-83b5-41e0-b329-3823fd250b93" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f044f781-83b5-41e0-b329-3823fd250b93" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +15,12 @@
   <component name="Git.Settings">
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
@@ -140,12 +143,24 @@
       <option name="presentableId" value="Default" />
       <updated>1589625662424</updated>
       <workItem from="1589625663763" duration="3879000" />
-      <workItem from="1589629597396" duration="1321000" />
+      <workItem from="1589629597396" duration="1612000" />
     </task>
+    <task id="LOCAL-00001" summary="add &lt;div&gt;">
+      <created>1589631199837</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589631199837</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add &lt;div&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &lt;div&gt;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="222" y="158" width="719" height="545" key="#Notifications" timestamp="1589629148630">
@@ -160,6 +175,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="395" y="1" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1589627157995" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1589631198272">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1589631198272" />
     <state x="441" y="131" key="FileChooserDialogImpl" timestamp="1589629053725">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -212,6 +231,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="162" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1589629281899" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1589631273483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1589631273483" />
+    <state x="476" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589631210895">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1589631210895" />
     <state x="53" y="0" key="new project wizard" timestamp="1589626064337">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
